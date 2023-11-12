@@ -1,0 +1,1 @@
+X=Msgbox("Nepakanka vietos saugykloje, prasome pasalinti kaska, kad atsirastu vietos ir vel bandykite dar karta",0+48,"ERROR | NOT ENOUGT SPACE")

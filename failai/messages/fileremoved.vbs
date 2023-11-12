@@ -1,0 +1,1 @@
+X=Msgbox("Failas sekmingai pasalintas",0+48,"Failu naikintuvas")
